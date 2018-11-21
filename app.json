@@ -2,7 +2,7 @@
   "expo": {
     "name": "drawerLockMode",
     "description": "This project is really great.",
-    "slug": "drawerLockMode",
+    "slug": "drawerLockMode-v2",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": ["ios", "android"],

@@ -12,7 +12,7 @@ export default class App extends React.Component {
   }
 }
 
-const Navigator = createAppContainer(
+const Navigator =
   createDrawerNavigator(
     {
       Home: {
@@ -33,4 +33,3 @@ const Navigator = createAppContainer(
       backBehavior: 'initialRoute',
     }
   )
-)
